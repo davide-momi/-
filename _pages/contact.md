@@ -4,7 +4,6 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Computer Science Department, Stanford University<br>
-Gates 158, 353 Serra Mall, Stanford, CA 94305<br>
-Email: lantaoyu [at] cs.stanford.edu
-
+Department of Neuroscience, Imaging and Clinical Sciences, University "G. d'Annunzio" of Chieti<br>
+Via dei Vestini 31, 66013 Chieti, Italy<br>
+Email: davide.momi [at] unich.it
