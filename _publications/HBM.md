@@ -1,0 +1,13 @@
+---
+title: "Modulation of network‐to‐network connectivity via spike‐timing‐dependent noninvasive brain stimulation"
+collection: publications
+permalink: /publications/HBM
+venue: "Human Brain Mapping"
+date: 2018-08-16
+citation: 'Santarnecchi E, <b>Momi D</b>, Sprugnoli G, Neri F, Pascual-Leone A, Rossi A, Rossi S <b>Human Brain Mapping 2018.</b>'
+---
+
+[[PDF]](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.24329)
+
+## Abstract
+Human cognitive abilities and behavior are linked to functional coupling of many brain regions organized in distinct networks. Gaining insights on the role those networks’ dynamics play in cognition and pathology requires their selective, reliable, and reversible manipulation. Here we document the possibility to manipulate the interplay between two brain networks in a controlled manner, by means of a Transcranial Magnetic Stimulation (TMS) protocol inducing spike timing dependent plasticity (STDP). Pairs of TMS pulses at specific inter‐stimulus intervals, repeatedly delivered over two negatively correlated nodes of the default mode network (DMN) and the task‐positive network (TPN) defined on the basis of individual functional magnetic resonance imaging (fMRI) data, induced a modulation of network‐to‐network connectivity, even reversing correlation from negative to slightly positive in 30% of cases. Results also suggest a baseline‐dependent effect, with a greater connectivity modulation observed in participants with weaker between‐networks connectivity strength right before TMS. Finally, modulation of task‐evoked fMRI activity patterns during a sustained attention task was also observed after stimulation, with a faster or slower switch between rest and task blocks according to the timing of TMS pulses. The present findings promote paired associative TMS as a promising technique for controlled manipulation of fMRI connectivity dynamics in humans, as well as the causal investigation of brain‐behavior relations.

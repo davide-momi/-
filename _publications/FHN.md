@@ -1,0 +1,13 @@
+---
+title: "Functional and Brain Activation Changes Following Specialized Upper-Limb Exercise in Parkinson’s Disease"
+collection: publications
+permalink: /publications/FHN
+venue: "Frontiers in Human Neuroscience"
+date: 2019-10-15
+citation: 'Messa LV, Ginanneschi F, <b>Momi D</b>, Monti L, Battisti C, Cioncoloni D, Pucci B, Santarnecchi E, Rossi A <b>Frontiers in Human Neuroscience 2019.</b>'
+---
+
+[[PDF]](https://www.frontiersin.org/articles/10.3389/fnhum.2019.00350/full)
+
+## Abstract
+For the management of Parkinson’s disease (PD), the concept of forced exercise (FE) has drawn interest. In PD subjects, the FE executed with lower limbs has been shown to lessen symptoms and to promote brain adaptive changes. Our study is aimed to investigate the effect of an upper-limb exercise, conceptually comparable with the FE, in PD. Upper-limb exercise was achieved in a sitting position by using a specially designed device (Angel’s Wings®). Clinical data, computerized dynamic posturography, magnetic resonance imaging (MRI) (resting-state MRI and arterial spin labeling), and neuropsychological tests were used before and after 2 months’ exercise training. We found a significant long-lasting improvement in Unified Parkinson Disease Rating Scale (UPDRS)-III and cognitive scales, along with improvement in balance and postural control (better alignment of the gravity center and improvement in weight symmetry and in anticipatory motor strategies). Computerized dynamic posturography pointed out an enhanced central ability to integrate the vestibular signals with afferents from other sensory systems. Neuroimaging analyses after 2 months’ exercise training showed, with respect to pretraining condition, many changes. An increase of the cerebral blood flow was evident in the left primary motor cortex (M1), left supplementary motor cortical area, and left cerebellar cortex. The bilateral globus pallidus showed an increased functional connectivity to the right central operculum, right posterior cingulate gyrus, and left sensorimotor cortex. Seed-to-voxel analysis demonstrated a functional connectivity between M1 and the left superior frontal gyrus. Left crus II showed strengthened connections with the left pre-rolandic area, left post-rolandic area, and left supramarginal area. These findings likely reflect compensatory mechanisms to the neuropathological hallmark of PD. Overall, our results show that this upper-limb exercise model, conceptually comparable with the FE already tested in the lower limbs, leads to a global improvement (involving non-exercised limbs) likely consistent with the functional changes observed in the central nervous system.
