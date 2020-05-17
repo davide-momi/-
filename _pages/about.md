@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://github.com/Davi1990/Davi1990.github.io/blob/master/images/Davide_Momi.jpg?raw=true" alt="Photo" style="width: 450px;"/>
+  <img src="https://github.com/Davi1990/Davi1990.github.io/blob/master/images/Dave.jpg?raw=true" alt="Photo" style="width: 450px;"/>
 </p>
 
 # About Me
@@ -25,6 +25,16 @@ redirect_from:
 * June 24 - June 28 2019. I won a Fellowship to attend the “Summer School of Interdisciplinary Research on Brain Network Dynamics” in Terzolas at the Department of Physics of the University of Trento - Italy
 * March 25 - March 30 2019. I won a [FENS - Federation of European Neuroscience Societies](https://www.fens.org/) Travel Grant to attend the “International Interdisciplinary Computational Cognitive Science Spring School (IICCSSS)” at the Bernstein Center Freiburg, Germany
 * January 25 - January 30, 2019. I attended the "European Workshop on Cognitive Neuropsychology" when I won the [EWCN Prize](https://sites.google.com/view/ewcn/ewcn-prize/ewcn-prize-2019)
+* November 26 - December 7 2018. I attended the Winter School on the “Neurotechnology applications on aging-related disorders” at the Cuban Neuroscience Center (CNEURO), Havana, Cuba
+* October 22 - October 26 2018. I attended the "Afni + Suma Training Workshop" at the National Institute of Health (NIH), Bethesda (MD)
+* October 1 - October 4 2018. I attended the "FreeSurfer Tutorial and Workshop" at the Martinos Center for Biomedical Imaging, Boston (MA),
+* May 18 - May 23 2018. I attended the "6th TMS-EEG Science Factory: TMS-EEG Summer School and Workshop" at the Aalto University, Espoo, Finland
+* May 2 - May 4 2018. I attended the "Brainhack San Sebastien BCBL" at the Basque Center on Cognition, Brain and Language, Spain
+* February 26 - February 28 2018. I attended the "20th Natbrainlab Neuroanatomy and Tractography workshop Natbrainlab" at King’s College in London, UK
+* October 31 - November 1 2017. I attended the "Introduction to Transcranial Current Stimulation", Harvard Medical School, Boston (MA)
+* October 24 - October 28 2017. I attended the "Intensive Course in Transcranial Magnetic Stimulation" at the Berenson-Allen Center for Noninvasive Brain Stimulation", Harvard Medical School, Boston (MA)
 
 # Academic Services
-* PC member / Reviewer: AAAI 2019, AAAI 2020, ICML 2020, NeurIPS 2020.
+* Member of the Psychologists Association of Umbria Since November 2018
+* Member of “International Society for Intelligence Research” Since July 2017
+* Member of “Italian Society of Psychophysiology” Since November 2015
