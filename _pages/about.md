@@ -18,6 +18,8 @@ redirect_from:
 * I received my Master’s Degree in "Neuroscience and Neuropsychological Rehabilitation" from the [University of Bologna](https://www.unibo.it/en/teaching/degree-programmes/programme/2014/0989).
 
 # Recent News
+* July 13 - July 31 2020. I have been selected to attend the "Neuromatch Academy: An online school for Computational Neuroscience"
+* May 29, 2020. The manuscript entitled "Long-lasting Connectivity Changes Induced by Intensive First-Person Shooter Gaming" has been accepted for publication in Brain Imaging and Behavior
 * April 7, 2020. The manuscript entitled "Individualized perturbation of the human connectome reveals reproducible biomarkers of network dynamics relevant to cognition" has been accepted for publication in PNAS.
 * October 30, 2019.  The manuscript entitled "Cognitive Enhancement via Network-Targeted Cortico-cortical Associative Brain Stimulation" has been accepted for publication in Cerebral Cortex
 * October 7, 2019. Starting visit PhD period at Martinos Center for Biomedical Imaging

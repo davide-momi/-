@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/EJN
 venue: "European Journal of Neuroscience"
 date: 2018-12-16
-citation: '<b>Momi D</b>, Smeralda C, Sprugnoli G, Neri F, Rossi S, Rossi A, Di Lorenzo G, Santarnecchi E. <b>European Journal of Neuroscience 2019.</b>'
+citation: '<b>Momi D</b>, Smeralda C, Sprugnoli G, Neri F, Rossi S, Rossi A, Di Lorenzo G, Santarnecchi E. <b>European Journal of Neuroscience 2018.</b>'
 ---
 
 [[PDF]](https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.14272)

@@ -4,8 +4,16 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
+<b>[Long-lasting connectivity changes induced by intensive first-person shooter gaming](https://davi1990.github.io/publications/BIB)</b> <br>
+<b>Momi D</b>, Smeralda C\*, Di Lorenzo G, Neri F, Rossi S, Rossi A, Santarnecchi E.
+<i><b>Journal of Neuroscience Research 2020</b>.
+
+<b>[Impact of network‐targeted multichannel transcranial direct current stimulation on intrinsic and network‐to‐network functional connectivity](https://davi1990.github.io/publications/JoNR)</b> <br>
+Mencarelli L, Menardi A, Neri F, Monti L, Ruffini G, Salvator R, Pascual-Leone A, <b>Momi D</b>, Sprugnoli G, Rossi A, Rossi S, Santarnecchi E.
+<i><b>Journal of Neuroscience Research 2020</b>.
+
 <b>[Individualized perturbation of the human connectome reveals reproducible biomarkers of network dynamics relevant to cognition](https://davi1990.github.io/publications/PNAS)</b> <br>
-<b>Ozdemir RA</b>, Tadayon E, Boucher P, <b>Momi D</b>, Karakhanyan KA, Fox MD, Halko MA, Pascual-Leone A, Shafi MM, Santarnecchi E.
+Ozdemir RA, Tadayon E, Boucher P, <b>Momi D</b>, Karakhanyan KA, Fox MD, Halko MA, Pascual-Leone A, Shafi MM, Santarnecchi E.
 <i><b>PNAS 2020</b>.
 
 <b>[Cognitive Enhancement via Network-Targeted Cortico-cortical Associative Brain Stimulation](https://davi1990.github.io/publications/Cerebral_Cortex)</b> <br>
