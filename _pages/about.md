@@ -18,11 +18,15 @@ redirect_from:
 * I received my Master’s Degree in "Neuroscience and Neuropsychological Rehabilitation" from the [University of Bologna](https://www.unibo.it/en/teaching/degree-programmes/programme/2014/0989).
 
 # Recent News
+* December 18, 2020. The manuscript entitled "Network-level Macroscale Structural Connectivity Predicts Propagation of Transcranial Magnetic Stimulation" has been accepted for publication in NeuroImage.
+* December, 2020. Finish PhD at the [Department of Neuroscience, Imaging and Clinical Sciences](https://www.dni.unich.it/dottorato/business-and-behavioural-sciences) at [University "G. d'Annunzio" of Chieti](http://www.bbs.unich.it/)
+* October 29, 2020. The manuscript entitled "Functional connectivity changes and symptoms improvement after personalized, double-daily dosing, repetitive transcranial magnetic stimulation in obsessive-compulsive disorder: A pilot study" has been accepted for publication in Journal of Psychiatric Research
+* October 1, 2020. Finish PhD visiting period at [Martinos Center for Biomedical Imaging](https://www.martinos.org/)
 * July 13 - July 31 2020. I have been selected to attend the "Neuromatch Academy: An online school for Computational Neuroscience"
 * May 29, 2020. The manuscript entitled "Long-lasting Connectivity Changes Induced by Intensive First-Person Shooter Gaming" has been accepted for publication in Brain Imaging and Behavior
 * April 7, 2020. The manuscript entitled "Individualized perturbation of the human connectome reveals reproducible biomarkers of network dynamics relevant to cognition" has been accepted for publication in PNAS.
 * October 30, 2019.  The manuscript entitled "Cognitive Enhancement via Network-Targeted Cortico-cortical Associative Brain Stimulation" has been accepted for publication in Cerebral Cortex
-* October 7, 2019. Starting visit PhD period at Martinos Center for Biomedical Imaging
+* October 7, 2019. Starting visit PhD period at [Martinos Center for Biomedical Imaging](https://www.martinos.org/)
 *  September 16 - Semptember 27 2019. I attended the "Disruptive Summer School in Data Science & Machine Learning" at the University of Viterbo
 * June 24 - June 28 2019. I won a Fellowship to attend the “Summer School of Interdisciplinary Research on Brain Network Dynamics” in Terzolas at the Department of Physics of the University of Trento - Italy
 * March 25 - March 30 2019. I won a [FENS - Federation of European Neuroscience Societies](https://www.fens.org/) Travel Grant to attend the “International Interdisciplinary Computational Cognitive Science Spring School (IICCSSS)” at the Bernstein Center Freiburg, Germany

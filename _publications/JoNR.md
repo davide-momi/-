@@ -2,7 +2,7 @@
 title: "Impact of network‐targeted multichannel transcranial direct current stimulation on intrinsic and network‐to‐network functional connectivity"
 collection: publications
 permalink: /publications/JoNR
-venue: "PNAS 2020"
+venue: "Journal of Neuroscience Research 2020"
 date: 2020-4-7
 citation: 'Mencarelli L, Menardi A, Neri F, Monti L, Ruffini G, Salvator R, Pascual-Leone A, <b>Momi D</b>, Sprugnoli G, Rossi A, Rossi S, Santarnecchi E. <i>Journal of Neuroscience Research 2020</i>.'
 ---

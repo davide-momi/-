@@ -4,9 +4,17 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
+<b>[Network-level Macroscale Structural Connectivity Predicts Propagation of Transcranial Magnetic Stimulation](https://davi1990.github.io/publications/NeuroImage)</b> <br>
+<b>Momi D</b>, Ozdemir R, Tadayon E, Boucher P, Shafi M, Pascual-Leone A, Santarnecchi E.
+<i><b>NeuroImage 2020</b>.
+
 <b>[Long-lasting connectivity changes induced by intensive first-person shooter gaming](https://davi1990.github.io/publications/BIB)</b> <br>
 <b>Momi D</b>, Smeralda C\*, Di Lorenzo G, Neri F, Rossi S, Rossi A, Santarnecchi E.
 <i><b>Journal of Neuroscience Research 2020</b>.
+
+<b>[Functional connectivity changes and symptoms improvement after personalized, double-daily dosing, repetitive transcranial magnetic stimulation in obsessive-compulsive disorder: A pilot study](https://davi1990.github.io/publications/JoNR2)</b> <br>
+Mantovani A, Neri F, D'Urso G, Mencarelli L, Tatti E, <b>Momi D</b>, Menardi A, Sprugnoli G, Santarnecchi E, Rossi S.
+<i><b>Journal of Psychiatric Research 2020</b>.
 
 <b>[Impact of network‐targeted multichannel transcranial direct current stimulation on intrinsic and network‐to‐network functional connectivity](https://davi1990.github.io/publications/JoNR)</b> <br>
 Mencarelli L, Menardi A, Neri F, Monti L, Ruffini G, Salvator R, Pascual-Leone A, <b>Momi D</b>, Sprugnoli G, Rossi A, Rossi S, Santarnecchi E.
