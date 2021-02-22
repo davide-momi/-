@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Davide Momi"
 title_separator          : "-"
 name                     : &name "Davide Momi"
-description              : &description "Ph.D. student, Department of Neuroscience, Imaging and Clinical Sciences, Chieti University"
+description              : &description "Post-Doctoral Research Fellow, Whole Brain Modelling Group, Krembil Institute for Neuroinformatics, Toronto"
 url                      : https://Davi1990.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Davi1990/Davi1990.github.io"
@@ -79,8 +79,8 @@ analytics:
 author:
   name             : "Davide Momi"
   avatar           : "Davide_Momi.jpg"
-  bio              : "Ph.D. student, Department of Neuroscience, Imaging and Clinical Sciences, Chieti University"
-  location         : "Boston (MA) - USA"
+  bio              : "Post-Doctoral Research Fellow, Whole Brain Modelling Group, Krembil Institute for Neuroinformatics, Toronto"
+  location         : "Toronto (ON) - Canada"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=I-BACCgAAAAJ&hl=en"
   email            : "davide.momi@unich.it"
@@ -248,7 +248,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Boston # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Toronto # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

@@ -13,11 +13,14 @@ redirect_from:
 </p>
 
 # About Me
-* I am a Ph.D. student in the [Department of Neuroscience, Imaging and Clinical Sciences](https://www.dni.unich.it/dottorato/business-and-behavioural-sciences) at [University "G. d'Annunzio" of Chieti](http://www.bbs.unich.it/). [[Curriculum Vitae](https://davi1990.github.io/files/CV_Davide_Momi-merged.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=I-BACCgAAAAJ&hl=en)]
-* My research interests focus on integrating multimodal neuroimaging techniques with electrophysiological measures in order to optimize noninvasive brain stimulation intervention. I have experience in the following: neuroimaging (e.g. DTI, fMRI, ASL) analysis, TMS applications, machine learning model building, EEG data collection and analysis, quantitative structural MRI assessment (e.g. brain morphometry, cortical thickness etc.), cognitive tasks development.
+* I am a Post-Doctoral Research Fellow at the [Whole Brain Modelling Group](https://www.grifflab.com/) at the [Krembil Centre for Neuroinformatics - CAMH](https://www.camh.ca/en/science-and-research/institutes-and-centres/krembil-centre-for-neuroinformatics). [[Curriculum Vitae](https://davi1990.github.io/files/CV_Davide_Momi-merged.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=I-BACCgAAAAJ&hl=en)]
+* I received my Ph.D. from the [Department of Neuroscience, Imaging and Clinical Sciences](https://www.dni.unich.it/dottorato/business-and-behavioural-sciences) at [University "G. d'Annunzio" of Chieti](http://www.bbs.unich.it/) which was focused on integrating multimodal neuroimaging techniques with electrophysiological measures in order to optimize noninvasive brain stimulation intervention.
+* Now my research is mainly focused on developing computational models of brain stimulation. I have experience in the following: neuroimaging (e.g. DTI, fMRI, ASL) analysis, TMS applications, machine learning model building, EEG data collection and analysis, quantitative structural MRI assessment (e.g. brain morphometry, cortical thickness etc.), cognitive tasks development.
 * I received my Master’s Degree in "Neuroscience and Neuropsychological Rehabilitation" from the [University of Bologna](https://www.unibo.it/en/teaching/degree-programmes/programme/2014/0989).
 
 # Recent News
+* March 1, 2021. Start working as Post-Doctoral Research Fellow at the Whole Brain Modelling Group  
+* February 12, 2021. The manuscript entitled "Cortical Responses to Noninvasive Perturbations Enable Individual Brain Fingerprinting" has been accepted for publication in Brain Stimulation.
 * December 18, 2020. The manuscript entitled "Network-level Macroscale Structural Connectivity Predicts Propagation of Transcranial Magnetic Stimulation" has been accepted for publication in NeuroImage.
 * December, 2020. Finish PhD at the [Department of Neuroscience, Imaging and Clinical Sciences](https://www.dni.unich.it/dottorato/business-and-behavioural-sciences) at [University "G. d'Annunzio" of Chieti](http://www.bbs.unich.it/)
 * October 29, 2020. The manuscript entitled "Functional connectivity changes and symptoms improvement after personalized, double-daily dosing, repetitive transcranial magnetic stimulation in obsessive-compulsive disorder: A pilot study" has been accepted for publication in Journal of Psychiatric Research

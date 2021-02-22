@@ -3,30 +3,19 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citat
 permalink: /publications/
 author_profile: true
 ---
+First author:
 <br>
 <b>[Network-level Macroscale Structural Connectivity Predicts Propagation of Transcranial Magnetic Stimulation](https://davi1990.github.io/publications/NeuroImage)</b> <br>
 <b>Momi D</b>, Ozdemir R, Tadayon E, Boucher P, Shafi M, Pascual-Leone A, Santarnecchi E.
 <i><b>NeuroImage 2020</b>.
 
-<b>[Long-lasting connectivity changes induced by intensive first-person shooter gaming](https://davi1990.github.io/publications/BIB)</b> <br>
-<b>Momi D</b>, Smeralda C\*, Di Lorenzo G, Neri F, Rossi S, Rossi A, Santarnecchi E.
-<i><b>Journal of Neuroscience Research 2020</b>.
-
-<b>[Functional connectivity changes and symptoms improvement after personalized, double-daily dosing, repetitive transcranial magnetic stimulation in obsessive-compulsive disorder: A pilot study](https://davi1990.github.io/publications/JoNR2)</b> <br>
-Mantovani A, Neri F, D'Urso G, Mencarelli L, Tatti E, <b>Momi D</b>, Menardi A, Sprugnoli G, Santarnecchi E, Rossi S.
-<i><b>Journal of Psychiatric Research 2020</b>.
-
-<b>[Impact of network‐targeted multichannel transcranial direct current stimulation on intrinsic and network‐to‐network functional connectivity](https://davi1990.github.io/publications/JoNR)</b> <br>
-Mencarelli L, Menardi A, Neri F, Monti L, Ruffini G, Salvator R, Pascual-Leone A, <b>Momi D</b>, Sprugnoli G, Rossi A, Rossi S, Santarnecchi E.
-<i><b>Journal of Neuroscience Research 2020</b>.
-
-<b>[Individualized perturbation of the human connectome reveals reproducible biomarkers of network dynamics relevant to cognition](https://davi1990.github.io/publications/PNAS)</b> <br>
-Ozdemir RA, Tadayon E, Boucher P, <b>Momi D</b>, Karakhanyan KA, Fox MD, Halko MA, Pascual-Leone A, Shafi MM, Santarnecchi E.
-<i><b>PNAS 2020</b>.
-
 <b>[Cognitive Enhancement via Network-Targeted Cortico-cortical Associative Brain Stimulation](https://davi1990.github.io/publications/Cerebral_Cortex)</b> <br>
 <b>Momi D</b>, Neri F, Coiro G, Veniero D, Sprugnoli G, Rossi A, Pascual-Leone A, Rossi S, Santarnecchi E.
 <i><b>Cerebral Cortex 2019</b>.
+
+<b>[Long-lasting connectivity changes induced by intensive first-person shooter gaming](https://davi1990.github.io/publications/BIB)</b> <br>
+<b>Momi D</b>, Smeralda C\*, Di Lorenzo G, Neri F, Rossi S, Rossi A, Santarnecchi E.
+<i><b>Journal of Neuroscience Research 2020</b>.
 
 <b>[Thalamic morphometric changes induced by first‐person action videogame training](https://davi1990.github.io/publications/EJN)</b> <br>
 <b>Momi D</b>, Smeralda C, Sprugnoli G, Neri F, Rossi S, Rossi A, Di Lorenzo G, Santarnecchi E.
@@ -39,6 +28,25 @@ Ozdemir RA, Tadayon E, Boucher P, <b>Momi D</b>, Karakhanyan KA, Fox MD, Halko M
 <b>[Peculiarities of Functional Connectivity—including Cross-Modal Patterns—in Professional Karate Athletes: Correlations with Cognitive and Motor Performances](https://davi1990.github.io/publications/NP)</b> <br>
 <b>Momi D</b>, Berti B\*, Sprugnoli G, Neri F, Bonifazi M, Rossi A, Muscettola M, Benocci R, Santarnecchi E, Rossi S.
 <i><b>Neural Plasticity 2019</b>.
+
+
+Co-authorships:
+
+<b>[Cortical Responses to Noninvasive Perturbations Enable Individual Brain Fingerprinting](https://davi1990.github.io/publications/Brain_Stimul)</b> <br>
+Ozdemir R, Tadayon E, Boucher P, Sun H, <b>Momi D</b>, Ganglberger WM, Westover B. Pascual-Leone A, Santarnecchi E, Shafi M.
+<i><b>Brain Stimulation 2021</b>.
+
+<b>[Individualized perturbation of the human connectome reveals reproducible biomarkers of network dynamics relevant to cognition](https://davi1990.github.io/publications/PNAS)</b> <br>
+Ozdemir RA, Tadayon E, Boucher P, <b>Momi D</b>, Karakhanyan KA, Fox MD, Halko MA, Pascual-Leone A, Shafi MM, Santarnecchi E.
+<i><b>PNAS 2020</b>.
+
+<b>[Functional connectivity changes and symptoms improvement after personalized, double-daily dosing, repetitive transcranial magnetic stimulation in obsessive-compulsive disorder: A pilot study](https://davi1990.github.io/publications/JoNR2)</b> <br>
+Mantovani A, Neri F, D'Urso G, Mencarelli L, Tatti E, <b>Momi D</b>, Menardi A, Sprugnoli G, Santarnecchi E, Rossi S.
+<i><b>Journal of Psychiatric Research 2020</b>.
+
+<b>[Impact of network‐targeted multichannel transcranial direct current stimulation on intrinsic and network‐to‐network functional connectivity](https://davi1990.github.io/publications/JoNR)</b> <br>
+Mencarelli L, Menardi A, Neri F, Monti L, Ruffini G, Salvator R, Pascual-Leone A, <b>Momi D</b>, Sprugnoli G, Rossi A, Rossi S, Santarnecchi E.
+<i><b>Journal of Neuroscience Research 2020</b>.
 
 <b>[Age of Insomnia Onset Correlates with a Reversal of Default Mode Network and Supplementary Motor Cortex Connectivity](https://davi1990.github.io/publications/NP2)</b> <br>
 Santarnecchi E, Del Bianco C, Sicilia I, <b>Momi D</b>, Di Lorenzo G, Ferrone S, Sprugnoli G, Rossi S, Rossi A.
