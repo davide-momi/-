@@ -267,9 +267,7 @@ whitelist:
   - jekyll-feed
   - jemoji
 
-maps:
-  google:
-    api_key: AIzaSyCengVbWv7B7N3pRSnAyN4glR5_KH1SteE
+
 
 # Archives
 #  Type
