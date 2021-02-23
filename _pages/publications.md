@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 First author:
-<br>
+
 <b>[Network-level Macroscale Structural Connectivity Predicts Propagation of Transcranial Magnetic Stimulation](https://davi1990.github.io/publications/NeuroImage)</b> <br>
 <b>Momi D</b>, Ozdemir R, Tadayon E, Boucher P, Shafi M, Pascual-Leone A, Santarnecchi E.
 <i><b>NeuroImage 2020</b>.
