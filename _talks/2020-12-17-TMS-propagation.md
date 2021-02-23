@@ -9,4 +9,4 @@ location: "Zoom"
 ---
 
 Brain imaging predicts TMS-induced signal propagation <br>
-[[Slide]](http://Davi1990.github.io/blob/files/2020-12-17-TMS-propagation.pdf)
+[[Slide]](https://davi1990.github.io/files/2020-12-17-TMS-propagation.pdf)
