@@ -8,5 +8,5 @@ date: 2020-12-17
 location: "Zoom"
 ---
 
-An introduction of Recurrent Neural Networks. <br>
-[[Slide]](http://lantaoyu.github.io/files/2020-12-17-TMS-propagation.pdf)
+Brain imaging predicts TMS-induced signal propagation <br>
+[[Slide]](http://Davi1990.github.io/blob/files/2020-12-17-TMS-propagation.pdf)
