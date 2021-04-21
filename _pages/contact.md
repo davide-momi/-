@@ -4,6 +4,8 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Department of Neuroscience, Imaging and Clinical Sciences, University "G. d'Annunzio" of Chieti<br>
-Via dei Vestini 31, 66013 Chieti, Italy<br>
-Email: davide.momi [at] unich.it
+Whole Brain Modelling Group<br>
+Krembil Centre for Neuroinformatics<br>
+Centre for Addiction and Mental Health<br>
+250 College St., Toronto, ON M5T 1R8<br>
+Email: davide.momi [at] camh.ca
