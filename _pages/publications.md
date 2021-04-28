@@ -32,6 +32,10 @@ First author:
 
 Co-authorships:
 
+<b>[Overlapping and dissociable brain activations for fluid intelligence and executive functions](https://davi1990.github.io/publications/CABN_2)</b> <br>
+Santarnecchi E, <b>Momi D</b>, Mencarelli L, Plessow F, Saxena S, Rossi S, Rossi A, Pascual-Leone A
+<i><b>Cognitive, Affective, & Behavioral Neuroscience 2021</b>.
+
 <b>[Cortical Responses to Noninvasive Perturbations Enable Individual Brain Fingerprinting](https://davi1990.github.io/publications/Brain_Stimul)</b> <br>
 Ozdemir R, Tadayon E, Boucher P, Sun H, <b>Momi D</b>, Ganglberger WM, Westover B. Pascual-Leone A, Santarnecchi E, Shafi M.
 <i><b>Brain Stimulation 2021</b>.
