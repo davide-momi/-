@@ -40,6 +40,10 @@ Santarnecchi E, <b>Momi D</b>, Mencarelli L, Plessow F, Saxena S, Rossi S, Rossi
 Ozdemir R, Tadayon E, Boucher P, Sun H, <b>Momi D</b>, Ganglberger WM, Westover B. Pascual-Leone A, Santarnecchi E, Shafi M.
 <i><b>Brain Stimulation 2021</b>.
 
+<b>[Personalized adaptive training improves performance at a professional first-person shooter action videogame](https://davi1990.github.io/publications/Front_Psychol)</b> <br>
+Neri F, Smeralda C, <b>Momi D</b>, Sprugnoli G, Menardi A, Ferrone S, Rossi S, Rossi A, Di Lorenzo G, Santarnecchi E
+<i><b>Frontiers in Psychology 2021</b>.
+
 <b>[Individualized perturbation of the human connectome reveals reproducible biomarkers of network dynamics relevant to cognition](https://davi1990.github.io/publications/PNAS)</b> <br>
 Ozdemir RA, Tadayon E, Boucher P, <b>Momi D</b>, Karakhanyan KA, Fox MD, Halko MA, Pascual-Leone A, Shafi MM, Santarnecchi E.
 <i><b>PNAS 2020</b>.
