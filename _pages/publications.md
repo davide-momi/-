@@ -5,6 +5,10 @@ author_profile: true
 ---
 First author:
 
+<b>[Perturbation of resting-state network nodes preferentially propagates to structurally rather than functionally connected regions](https://davi1990.github.io/publications/SciRep)</b> <br>
+<b>Momi D</b>, Ozdemir R, Tadayon E, Boucher P, Di Domenico A, Fasolo M, Shafi M, Pascual-Leone A, Santarnecchi E.
+<i><b>Scientific Reports 2021</b>.
+
 <b>[Network-level Macroscale Structural Connectivity Predicts Propagation of Transcranial Magnetic Stimulation](https://davi1990.github.io/publications/NeuroImage)</b> <br>
 <b>Momi D</b>, Ozdemir R, Tadayon E, Boucher P, Shafi M, Pascual-Leone A, Santarnecchi E.
 <i><b>NeuroImage 2020</b>.
@@ -31,6 +35,10 @@ First author:
 
 
 Co-authorships:
+
+<b>[Reproducibility of cortical response modulation induced by intermittent and continuous theta-burst stimulation of the human motor cortex](https://davi1990.github.io/publications/Brain_Stimul_2)</b> <br>
+Ozdemir R, Boucher P, Fried P, <b>Momi D</b>, Jannati A, Pascual-Leone A, Santarnecchi E, Shafi M.
+<i><b>Brain Stimulation 2021</b>.
 
 <b>[Overlapping and dissociable brain activations for fluid intelligence and executive functions](https://davi1990.github.io/publications/CABN_2)</b> <br>
 Santarnecchi E, <b>Momi D</b>, Mencarelli L, Plessow F, Saxena S, Rossi S, Rossi A, Pascual-Leone A
