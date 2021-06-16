@@ -9,10 +9,10 @@ main:
   # - title: "Awards & Honors"
   #   url: /awards/
   - title: "Talks"
-    url: /talks/  
+    url: /talks/
 
-  # - title: "Talks"
-  #   url: /talks/
+   - title: "About me"
+     url: /about_me/
 
   # - title: "Teaching"
   #   url: /teaching/
