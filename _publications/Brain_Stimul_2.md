@@ -1,12 +1,12 @@
 ---
 title: "Cortical Responses to Noninvasive Perturbations Enable Individual Brain Fingerprinting"
 collection: publications
-permalink: /publications/Brain_Stimul
+permalink: /publications/Brain_Stimul_2
 venue: "Brain Stimulation 2021"
 date: 2021-02-12
 citation: 'Ozdemir R, Boucher P, Fried P, <b>Momi D</b>, Jannati A, Pascual-Leone A, Santarnecchi E, Shafi M. <i>Brain Stimulation 2021</i>.'
 ---
-[[PDF]](https://www.sciencedirect.com/science/article/pii/S1935861X21000334)
+[[PDF]](https://www.sciencedirect.com/science/article/pii/S1935861X21001133)
 
 
 ## Abstract

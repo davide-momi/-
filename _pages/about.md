@@ -19,6 +19,7 @@ redirect_from:
 * I received my Master’s Degree in "Neuroscience and Neuropsychological Rehabilitation" from the [University of Bologna](https://www.unibo.it/en/teaching/degree-programmes/programme/2014/0989).
 
 # Recent News
+* June 14, 2021. The manuscript entitled "Perturbation of resting-state network nodes preferentially propagates to structurally rather than functionally connected regions" has been accepted for publication in Scientific Reports.
 * April 26, 2021. The manuscript entitled "Overlapping and dissociable brain activations for fluid intelligence and executive functions" has been accepted for publication in Cognitive, Affective, & Behavioral Neuroscience.
 * March 1, 2021. Start working as Post-Doctoral Research Fellow at the Whole Brain Modelling Group  
 * February 12, 2021. The manuscript entitled "Cortical Responses to Noninvasive Perturbations Enable Individual Brain Fingerprinting" has been accepted for publication in Brain Stimulation.
