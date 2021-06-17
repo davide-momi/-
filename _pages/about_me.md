@@ -9,7 +9,7 @@ author_profile: true
     <b>As a proud Italian, I never forgets to renew my membership for the “fighting against pineapple on pizza” (a.k.a. Hawaiian pizza) movement</b>
 </p>
 <p align="center">
-    <img src="https://github.com/Davi1990/Davi1990.github.io/tree/master/images/pizzas.png" width="380"/>
+    <img src="https://github.com/Davi1990/Davi1990.github.io/blob/master/images/pizzas.png" width="380"/>
 </p>
 
 
