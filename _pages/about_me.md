@@ -24,7 +24,7 @@ author_profile: true
     I am is an enthusiastic basketball fan and he used to play semi-pro in the past
 <p align="center">
     <video style="width:100%" controls>
-    <source src="https://github.com/Davi1990/Davi1990.github.io/tree/master/images/dunk.mp4" type="video/mp4">
+    <source src="https://github.com/Davi1990/Davi1990.github.io/tree/master/images/dunk.mp4?raw=true" type="video/mp4">
     </video>
 </p>
 
