@@ -23,7 +23,7 @@ author_profile: true
 <p align="center">
     I am is an enthusiastic basketball fan and he used to play semi-pro in the past
 </p>
-<video src="https://github.com/Davi1990/Davi1990.github.io/tree/master/images/dunk.mp4" width="320" height="200" controls preload></video>
+<video src="https://github.com/Davi1990/Davi1990.github.io/tree/master/images/dunk.mp4?raw=true" width="320" height="200" controls preload></video>
 
 
 I am  6 ft 6 in. tall and am gradually getting used to my height.
