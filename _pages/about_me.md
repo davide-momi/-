@@ -18,12 +18,14 @@ author_profile: true
 </p>
 <p align="center">
     <img src="https://github.com/Davi1990/Davi1990.github.io/blob/master/images/mountain.png?raw=true" alt="Photo" style="width: 450px;"/>
-
 </p>
+
 <p align="center">
     I am is an enthusiastic basketball fan and he used to play semi-pro in the past
+<p align="center">
+    <video style="width:100%" controls>
+    <source src="https://github.com/Davi1990/Davi1990.github.io/tree/master/images/dunk.mp4" type="video/mp4">
+    </video>
 </p>
-<video src="https://github.com/Davi1990/Davi1990.github.io/tree/master/images/dunk.mp4?raw=true" width="320" height="200" controls preload></video>
-
 
 I am  6 ft 6 in. tall and am gradually getting used to my height.
