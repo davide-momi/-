@@ -5,6 +5,10 @@ author_profile: true
 ---
 First author:
 
+<b>[Phase-dependent local brain states determine the impact of image-guided TMS on motor network EEG synchronization]((https://davi1990.github.io/publications/J_Physiol)</b> <br>
+<b>Momi D</b>, Ozdemir R, Tadayon E, Boucher P, Di Domenico A, Fasolo M, Shafi M, Pascual-Leone A, Santarnecchi E.
+<i><b>The Journal of Physiology 2021</b>.
+
 <b>[Perturbation of resting-state network nodes preferentially propagates to structurally rather than functionally connected regions](https://davi1990.github.io/publications/SciRep)</b> <br>
 <b>Momi D</b>, Ozdemir R, Tadayon E, Boucher P, Di Domenico A, Fasolo M, Shafi M, Pascual-Leone A, Santarnecchi E.
 <i><b>Scientific Reports 2021</b>.
@@ -40,6 +44,10 @@ Co-authorships:
 Ozdemir R, Boucher P, Fried P, <b>Momi D</b>, Jannati A, Pascual-Leone A, Santarnecchi E, Shafi M.
 <i><b>Brain Stimulation 2021</b>.
 
+<b>[Sham-derived effects and the minimal reliability of theta burst stimulation](https://davi1990.github.io/publications/SciRep2)</b> <br>
+Boucher, P., Ozdemir, R.A., <b>Momi D</b> Burke, M.J., Jannati, A., Fried, P.J., Pascual-Leone, A., Shafi, M.M., Santarnecchi, E.
+<i><b>Scientific Reports 2021</b>.
+
 <b>[Overlapping and dissociable brain activations for fluid intelligence and executive functions](https://davi1990.github.io/publications/CABN_2)</b> <br>
 Santarnecchi E, <b>Momi D</b>, Mencarelli L, Plessow F, Saxena S, Rossi S, Rossi A, Pascual-Leone A
 <i><b>Cognitive, Affective, & Behavioral Neuroscience 2021</b>.
@@ -48,9 +56,17 @@ Santarnecchi E, <b>Momi D</b>, Mencarelli L, Plessow F, Saxena S, Rossi S, Rossi
 Ozdemir R, Tadayon E, Boucher P, Sun H, <b>Momi D</b>, Ganglberger WM, Westover B. Pascual-Leone A, Santarnecchi E, Shafi M.
 <i><b>Brain Stimulation 2021</b>.
 
+<b>[Brain Functional Correlates of Episodic Memory Using an Ecological Free Recall Task](https://davi1990.github.io/publications/Brain_Sciences)</b> <br>
+Neri, F., Cappa, S.F., Mencarelli, L., <b>Momi D</b>, Santarnecchi, E., Rossi, S.
+<i><b>Brain Sciences 2021</b>.
+
 <b>[Personalized adaptive training improves performance at a professional first-person shooter action videogame](https://davi1990.github.io/publications/Front_Psychol)</b> <br>
 Neri F, Smeralda C, <b>Momi D</b>, Sprugnoli G, Menardi A, Ferrone S, Rossi S, Rossi A, Di Lorenzo G, Santarnecchi E
 <i><b>Frontiers in Psychology 2021</b>.
+
+<b>[Brainhack: Developing a culture of open, inclusive, community-driven neuroscience](https://davi1990.github.io/publications/Neuron)</b> <br>
+Gau., R., and The Brainhack Community.
+<i><b>Neuron  2021</b>.
 
 <b>[Individualized perturbation of the human connectome reveals reproducible biomarkers of network dynamics relevant to cognition](https://davi1990.github.io/publications/PNAS)</b> <br>
 Ozdemir RA, Tadayon E, Boucher P, <b>Momi D</b>, Karakhanyan KA, Fox MD, Halko MA, Pascual-Leone A, Shafi MM, Santarnecchi E.
