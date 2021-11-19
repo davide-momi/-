@@ -5,7 +5,7 @@ author_profile: true
 ---
 First author:
 
-<b>[Phase-dependent local brain states determine the impact of image-guided TMS on motor network EEG synchronization]((https://davi1990.github.io/publications/J_Physiol)</b> <br>
+<b>[Phase-dependent local brain states determine the impact of image-guided TMS on motor network EEG synchronization](https://davi1990.github.io/publications/J_Physiol)</b> <br>
 <b>Momi D</b>, Ozdemir R, Tadayon E, Boucher P, Di Domenico A, Fasolo M, Shafi M, Pascual-Leone A, Santarnecchi E.
 <i><b>The Journal of Physiology 2021</b>.
 
