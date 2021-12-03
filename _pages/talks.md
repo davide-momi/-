@@ -13,3 +13,10 @@ author_profile: true
 <b>[Modelling EEG large-scale brain network dynamics following an external perturbation with single-pulse TMS](https://davi1990.github.io/talks/2021-06-21-TMS-EEG_model)</b> <br>
 <b>The Krembil Centre for Neuroinformatics Virtual Open House</b>,
 <i><b>Online</b>
+<br/>
+<br/>
+<b>[dMRI analysis in Python](https://davi1990.github.io/talks/2021-11-05-dMRI_analysis_in_Python)</b> <br>
+<b>Neuroimaging Carpentry</b>,
+<i><b>Online</b>
+<br/>
+<br/>
