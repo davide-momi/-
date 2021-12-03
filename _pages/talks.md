@@ -20,7 +20,7 @@ author_profile: true
 <i><b>Online</b>
 <br/>
 <br/>
-<b>[Working with EEG-BIDS in EEGLAB (Matlab)](https://davi1990.github.io/talks/2021-11-19-Working_with_EEG-BIDS_in_EEGLAB))</b> <br>
+<b>[Working with EEG-BIDS in EEGLAB (Matlab)](https://davi1990.github.io/talks/2021-11-19-Working_with_EEG-BIDS_in_EEGLAB)</b> <br>
 <b>Neuroimaging Carpentry</b>,
 <i><b>Online</b>
 <br/>
