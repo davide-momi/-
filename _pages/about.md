@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://github.com/Davi1990/Davi1990.github.io/blob/master/images/Dave.jpg?raw=true" alt="Photo" style="width: 450px;"/>
+  <img src="https://github.com/Davi1990/Davi1990.github.io/blob/master/images/Tanzania.jpg?raw=true" alt="Photo" style="width: 450px;"/>
 </p>
 
 # About Me
@@ -19,6 +19,8 @@ redirect_from:
 * I received my Master’s Degree in "Neuroscience and Neuropsychological Rehabilitation" from the [University of Bologna](https://www.unibo.it/en/teaching/degree-programmes/programme/2014/0989).
 
 # Recent News
+* December 09, 2021. I gave a talk entitled ["Modelling large-scale brain network dynamics underlying the TMS-EEG evoked response"](https://davi1990.github.io/files/2021-12-09-_BSC.pdf) during the 4th International Brain Stimulation Conference 2021 in Charleston (SC) - USA
+* November 20, 2021. The manuscript entitled "Phase-dependent local brain states determine the impact of image-guided TMS on motor network EEG synchronization" has been accepted for publication in The Journal of Physiology.
 * June 14, 2021. The manuscript entitled "Perturbation of resting-state network nodes preferentially propagates to structurally rather than functionally connected regions" has been accepted for publication in Scientific Reports.
 * April 26, 2021. The manuscript entitled "Overlapping and dissociable brain activations for fluid intelligence and executive functions" has been accepted for publication in Cognitive, Affective, & Behavioral Neuroscience.
 * March 1, 2021. Start working as Post-Doctoral Research Fellow at the Whole Brain Modelling Group  
