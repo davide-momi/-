@@ -25,3 +25,8 @@ author_profile: true
 <i><b>Online</b>
 <br/>
 <br/>
+<b>[Modelling large-scale brain network dynamics underlying the TMS-EEG evoked response](https://davi1990.github.io/talks/2021-12-09-Modelling_large-scale_brain_network_dynamics_underlying_the_TMS-EEG_evoked_response)</b> <br>
+<b>4th International Brain Stimulation Conference 2021</b>,
+<i><b>Charleston, South Carolina, USA</b>
+<br/>
+<br/>

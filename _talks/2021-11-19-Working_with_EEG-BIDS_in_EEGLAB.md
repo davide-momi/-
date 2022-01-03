@@ -10,7 +10,10 @@ location: "Online"
 
 dMRI analysis in Python<br>
 <p align="center">
-    <video style="width:100%" controls>
-    <source src="https://box.bic.mni.mcgill.ca/s/rdGXXnaMA8cTAPI?path=%2F11192021#/files_mediaviewer/GMT20211119-155102_Recording_2006x1128.mp4?raw=true" type="video/mp4">
-    </video>
+    dMRI analysis in Python
+</p>
+<br>
+<br>
+<p align="center">
+    <img src="https://github.com/Davi1990/Davi1990.github.io/blob/master/images/screenshot_eeg.png?raw=true" alt="Photo" style="width: 450px;"/>(https://box.bic.mni.mcgill.ca/s/rdGXXnaMA8cTAPI?path=%2F11192021#/files_mediaviewer/GMT20211119-155102_Recording_2006x1128.mp4?raw=true)
 </p>
