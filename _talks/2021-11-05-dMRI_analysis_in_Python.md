@@ -13,6 +13,6 @@ location: "Online"
 </p>
 <p align="center">
     <video style="width:100%" controls>
-    <source src="https://www.youtube.com/watch?v=HM3lMplqTM4&t=3338s?raw=true" type="video/mp4">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/HM3lMplqTM4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </video>
 </p>
