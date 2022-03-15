@@ -12,7 +12,5 @@ location: "Online"
     Working with EEG-BIDS in EEGLAB
 </p>
 <p align="center">
-    <video style="width:100%" controls>
-    <source src="https://box.bic.mni.mcgill.ca/s/rdGXXnaMA8cTAPI?path=%2F11192021#/files_mediaviewer/GMT20211119-155102_Recording_2006x1128.mp4?raw=true" type="video/mp4">
-    </video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fyJDhlWEBqI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
