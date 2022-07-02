@@ -5,6 +5,11 @@ author_profile: true
 ---
 
 
+<b>[TMS-Evoked Responses Are Driven by Recurrent Large-Scale Network Dynamics](https://davi1990.github.io/talks/2022-06-07-Modelling_Large_Scale_Network_Dynamics)</b> <br>
+<b>Canadian Computational Neuroscience Spotlight v3</b>,
+<i><b>Online</b>
+<br/>
+<br/>
 <b>[Brain imaging predicts TMS-induced signal propagation](https://davi1990.github.io/talks/2020-12-17-TMS-propagation)</b> <br>
 <b>Brainhack Marburg</b>,
 <i><b>Online</b>
