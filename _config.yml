@@ -11,9 +11,9 @@ title                    : "Davide Momi"
 title_separator          : "-"
 name                     : &name "Davide Momi"
 description              : &description "Post-Doctoral Research Fellow, Whole Brain Modelling Group, Krembil Institute for Neuroinformatics, Toronto"
-url                      : https://Davi1990.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://davide.momi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Davi1990/Davi1990.github.io"
+repository               : "Davi1990/davide.momi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
